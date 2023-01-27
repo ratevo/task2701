@@ -1,0 +1,17 @@
+
+
+
+.h1banner { font-family: 'Open Sans', sans-serif;
+}
+
+.h1banner {
+    font-size: 100px;
+    line-height: .9;
+}
+.navbar {
+    background-color: rgb(242, 238, 249);
+    
+ }
+.navbar {
+    color: aliceblue;
+}
